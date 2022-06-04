@@ -1,6 +1,6 @@
 module.exports = {
 
-    token: 'OTgxMzgyMjk4MTg2NDI4NDM2.G0NrVj.5iEqj5c912yjVZ8o-J0aH06th5mfHh4R6NPiTI',      // Your Bot Token
+    token: 'Pco5DK52MWUvCL4qBOECh4tBF52d9lqr',      // Your Bot Token
 
     prefix: 'zen',     // Your Prefix
 
